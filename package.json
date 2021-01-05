@@ -1,0 +1,26 @@
+{
+  "name": "pokedex-v1",
+  "version": "1.0.0",
+  "description": "This is an express app made using the Pokeapi in order to create a pokedex web app that allows for quick information lookup on all pokemon based on generation and game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjbennicke/pokedex-v1.git"
+  },
+  "keywords": [
+    "Pokemon"
+  ],
+  "author": "Kerry Bennicke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjbennicke/pokedex-v1/issues"
+  },
+  "homepage": "https://github.com/kjbennicke/pokedex-v1#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
